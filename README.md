@@ -6,4 +6,4 @@ Then, the model is validated with a split_sample test. Finally, it is possible t
 
 References
 https://webgr.inrae.fr/en/models/daily-hydrological-model-gr4j/
- Perrin, C., C. Michel, et al. (2003). "Improvement of a parsimonious model for streamflow simulation." Journal of Hydrology 279(1-4): 275-289 [2] http://www.cemagref.fr/webgr/Modelesgb/gr4j/fonctionnement_gr4jgb.htm
+ Perrin, C., C. Michel, et al. (2003). "Improvement of a parsimonious model for streamflow simulation." Journal of Hydrology 279(1-4): 275-289  http://www.cemagref.fr/webgr/Modelesgb/gr4j/fonctionnement_gr4jgb.htm
