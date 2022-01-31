@@ -1,7 +1,7 @@
 # Hydrological_model
 GR4J hydrological model
 
-GR4J is a rainfall-runoff model. This code allows to calculate discharge from rainfall and evapotranspiration data. The model is calibrated with the nelder mead method and using the Kling-Gupta Efficiency criteria. 
+GR4J is a rainfall-runoff model. This code allows to calculate discharge from rainfall and evapotranspiration data. The model is calibrated with an optimization algorithm (with the nelder mead method) and using the Kling-Gupta Efficiency criteria. 
 Then, the model is validated with a split_sample test. Finally, it is possible to run a monte carlo simulation to create uncertainty in the parameters of the model.
 
 References
